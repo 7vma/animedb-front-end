@@ -59,5 +59,22 @@ To report a bug in this app, please check the issues in the GitHub repo. If the 
 
 To contribute to the building of this app, initiate a pull request with a detailed description of your changes and improvements made. 
 
+## Team
+
+Eamonn Kelly 
+https://github.com/ekelly55?tab=repositories[GitHub]
+https://www.linkedin.com/in/eamonn-m-kelly/[LinkedIn]
+
+Eamonn Kelly 
+https://github.com/ekelly55?tab=repositories[GitHub]
+https://www.linkedin.com/in/eamonn-m-kelly/[LinkedIn]
+
+Eamonn Kelly 
+https://github.com/ekelly55?tab=repositories[GitHub]
+https://www.linkedin.com/in/eamonn-m-kelly/[LinkedIn]
+
+Eamonn Kelly 
+https://github.com/ekelly55?tab=repositories[GitHub]
+https://www.linkedin.com/in/eamonn-m-kelly/[LinkedIn]
 
 

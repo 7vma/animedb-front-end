@@ -62,19 +62,19 @@ To contribute to the building of this app, initiate a pull request with a detail
 ## Team
 
 Eamonn Kelly 
-https://github.com/ekelly55?tab=repositories[GitHub]
-https://www.linkedin.com/in/eamonn-m-kelly/[LinkedIn]
+* GitHub https://github.com/ekelly55?tab=repositories
+* LinkedIn https://www.linkedin.com/in/eamonn-m-kelly/
 
-Eamonn Kelly 
-https://github.com/ekelly55?tab=repositories[GitHub]
-https://www.linkedin.com/in/eamonn-m-kelly/[LinkedIn]
+David Robles
+* GitHub https://github.com/7vma?tab=repositories
+* LinkedIn https://www.linkedin.com/in/david-robles-dr/
 
-Eamonn Kelly 
-https://github.com/ekelly55?tab=repositories[GitHub]
-https://www.linkedin.com/in/eamonn-m-kelly/[LinkedIn]
+Sohaib Ali 
+* GitHub https://github.com/saybeeali[GitHub]
+* LinkedIn https://www.linkedin.com/in/sohaib-ali-swe/
 
-Eamonn Kelly 
-https://github.com/ekelly55?tab=repositories[GitHub]
-https://www.linkedin.com/in/eamonn-m-kelly/[LinkedIn]
+Abtulloh Nguyen
+* GitHub https://github.com/abtullohn[GitHub]
+* LinkedIn https://www.linkedin.com/in/abtulloh-nguyen/
 
 

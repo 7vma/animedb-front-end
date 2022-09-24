@@ -43,6 +43,7 @@ The AnimeDB team plans to create a secure user login, including choosing or uplo
 
 * MongoDB
 * Mongoose
+* Postman
 * Express
 * React
 * Node

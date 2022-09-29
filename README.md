@@ -62,20 +62,20 @@ To contribute to the building of this app, initiate a pull request with a detail
 
 ## Team
 
-Eamonn Kelly 
-* GitHub https://github.com/ekelly55?tab=repositories
-* LinkedIn https://www.linkedin.com/in/eamonn-m-kelly/
-
-David Robles
+David Robles - In charge of Visuals and CSS/Design of AnimeDB
 * GitHub https://github.com/7vma?tab=repositories
 * LinkedIn https://www.linkedin.com/in/david-robles-dr/
 
-Sohaib Ali 
+Sohaib Ali - In charge of Front-end and Back-end work
 * GitHub https://github.com/saybeeali[GitHub]
 * LinkedIn https://www.linkedin.com/in/sohaib-ali-swe/
 
-Abtulloh Nguyen
+Abtulloh Nguyen - In charge of Front-end and Back-end work
 * GitHub https://github.com/abtullohn[GitHub]
 * LinkedIn https://www.linkedin.com/in/abtulloh-nguyen/
+
+Eamonn Kelly - In charge of organizing and managing Git.
+* GitHub https://github.com/ekelly55?tab=repositories
+* LinkedIn https://www.linkedin.com/in/eamonn-m-kelly/
 
 
